@@ -159,7 +159,7 @@ export const API_BASE_URL = 'https://your-api-domain.com/api'
 
 ## 🙏 致谢
 
-感谢所有为这个项目做出贡献的开发者和用户！
+感谢我自己！
 
 ---
 
